@@ -1,0 +1,23 @@
+{
+    "google": {
+        "client_id": "YOUR_GOOGLE_CLIENT_ID",
+        "client_secret": "YOUR_GOOGLE_CLIENT_SECRET",
+        "auth_url": "https://accounts.google.com/o/oauth2/auth",
+        "token_url": "https://oauth2.googleapis.com/token",
+        "redirect_uri": "YOUR_REDIRECT_URI"
+    },
+    "facebook": {
+        "client_id": "YOUR_FACEBOOK_CLIENT_ID",
+        "client_secret": "YOUR_FACEBOOK_CLIENT_SECRET",
+        "auth_url": "https://www.facebook.com/v10.0/dialog/oauth",
+        "token_url": "https://graph.facebook.com/v10.0/oauth/access_token",
+        "redirect_uri": "YOUR_REDIRECT_URI"
+    },
+    "github": {
+        "client_id": "YOUR_GITHUB_CLIENT_ID",
+        "client_secret": "YOUR_GITHUB_CLIENT_SECRET",
+        "auth_url": "https://github.com/login/oauth/authorize",
+        "token_url": "https://github.com/login/oauth/access_token",
+        "redirect_uri": "YOUR_REDIRECT_URI"
+    }
+}
